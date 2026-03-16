@@ -11,6 +11,10 @@ The project includes **data cleaning, exploratory analysis, RFM segmentation, mo
 
 ---
 
+### Live Demo -> https://churnanalysisand-prediction-005.streamlit.app
+
+---
+
 ## Features
 
 - Customer churn prediction using **Logistic Regression**
